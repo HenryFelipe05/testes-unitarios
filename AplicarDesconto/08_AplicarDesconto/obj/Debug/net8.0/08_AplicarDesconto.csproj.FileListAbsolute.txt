@@ -1,0 +1,14 @@
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\bin\Debug\net8.0\08_AplicarDesconto.exe
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\bin\Debug\net8.0\08_AplicarDesconto.deps.json
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\bin\Debug\net8.0\08_AplicarDesconto.runtimeconfig.json
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\bin\Debug\net8.0\08_AplicarDesconto.dll
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\bin\Debug\net8.0\08_AplicarDesconto.pdb
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\08_AplicarDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\08_AplicarDesconto.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\08_AplicarDesconto.AssemblyInfo.cs
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\08_AplicarDesconto.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\08_AplicarDesconto.dll
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\refint\08_AplicarDesconto.dll
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\08_AplicarDesconto.pdb
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\08_AplicarDesconto.genruntimeconfig.cache
+C:\Users\etec\Desktop\08_AplicarDesconto\08_AplicarDesconto\obj\Debug\net8.0\ref\08_AplicarDesconto.dll
